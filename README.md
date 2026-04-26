@@ -77,7 +77,7 @@ Organize files into folders based on:
 
 ## 👨‍💻 Author
 
-Developed by [Your Name]
+Developed by [Taimoor Haider]
 
 
 
